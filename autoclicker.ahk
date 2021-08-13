@@ -10,7 +10,7 @@ Gui, Add, Edit, x15 y35 Number Limit5 vDelay
 Gui, Add, Button, Default w120, OK
 Gui, Show
 WinSet, Style, -0xC00000, autoclicker.ahk,
-WinSet, Region, 0-0 W151 H102, A,
+WinSet, Region, 0-0 W151 H102, autoclicker.ahk,
 Return
 
 ButtonOK:
